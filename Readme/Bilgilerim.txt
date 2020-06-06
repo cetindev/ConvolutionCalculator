@@ -1,0 +1,23 @@
+Cihat SALİK
+180260025
+Altdaki xchart kütüphanesini eklemek gerekir yoksa hata alınır 
+Ödevi javanın kütüphanesi xchart olan grafik yazdıran kütüphanesini kullandık
+konvul_odev adlı dosya odevin netbeans projesi 
+Ödevi 	Konvul_Odev.java 'da bulunan main metodundan kullanıcının isteğine göre GirisTab.java
+dosyası x ve h grafiğini yazdırıyor ayrı bir yerde 
+Ama konvul_odev.java dosyasında bulunan Konvulusyon metodu bütün islemleri yapıyor yani 
+konvulusyon işlemini yapıyor ve h[n] ve x[n] grafiğini ekrana yazdırır ve y[n]
+grafiğini yani sonucu yazdırıyor ...
+
+
+Yazdığım porgramda 1 ve 2 seçenek var 
+Bunlar;
+2) X[n] ve H[n] Grafiklerinin (Giris) Ayrık Zamanlı Sinyalleri için 2'ye Basınız... 
+Eğer 2. seçeneğe basarsanız X ve H graflarini gösterir ve Kullanıcıdan değerler girmesini ister 
+ve X mi yoksa H mı olduğunu da sora
+1) Y[n] Grafiğinin (Sonuc)Ayrık Zamanlı Sinyali için 1'e Basınız...
+Eğer1. seçeneğe basarsanız  sizden değerler alır ve bu değerlere göre konvülüsyonu alır ve 
+Y  grafiğini gosterir
+
+
+Ödevin tamamı Konvul_Odev.java dosyasında yapılıyor 
