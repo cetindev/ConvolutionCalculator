@@ -1,2 +1,2 @@
 # Konvulusyon-Hesaplama
-Girilen değerlere göre grafik oluşturma .Bir h ve bir x grafiğinin eleman sayısını girdiğimiz ve alınan değerleri konsola giriğimizde codu run ettikten sonra konvülüsyon hesaplama işlemini yapar  ve sonuç grafiğiini yabi  y grafiğini çıktı olarak verir ve bir grafik şeklinde kullanıcıya verir. 
+Girilen değerlere göre java'nın XChart kütüphanesiyle  grafiği ve konvülüsyonlu grafiğini geri döndürüyor (Ekrana yazdırıyor).Bir h ve bir x grafiğinin eleman sayısını girdiğimiz ve alınan değerleri konsola giriğimizde codu run ettikten sonra konvülüsyon hesaplama işlemini yapar  ve sonuç grafiğiini yabi  y grafiğini çıktı olarak verir ve bir grafik şeklinde kullanıcıya verir. 
