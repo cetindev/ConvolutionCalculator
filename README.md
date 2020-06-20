@@ -1,12 +1,12 @@
 # Konvulusyon-Hesaplama
-Girilen değerlere göre java'nın XChart kütüphanesiyle  grafiği ve konvülüsyonlu grafiğini geri döndürüyor (Ekrana yazdırıyor).Bir h ve bir x grafiğinin eleman sayısını girdiğimiz ve alınan değerleri konsola giriğimizde codu run ettikten sonra konvülüsyon hesaplama işlemini yapar  ve sonuç grafiğiini yabi  y grafiğini çıktı olarak verir ve bir grafik şeklinde kullanıcıya verir. 
+It outputs the table according to the values entered. Returns the graph and convulsive graph of java with the XChart library according to the entered values. It outputs the graphic y and outputs it to the user as a graphic.
+
+# Outputs the table according to the values entered.**
 
 ![Ekran Alıntısı](https://user-images.githubusercontent.com/57585087/85200416-d3521d00-b2ff-11ea-9559-b7ca6636673a.PNG)
 
 
-# 
 
-**Outputs the table according to the values entered.**
 
 
 ![Ekran Alıntısı4](https://user-images.githubusercontent.com/57585087/85200435-00063480-b300-11ea-85dd-60ab3e3dbe54.PNG)
