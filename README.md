@@ -1,4 +1,4 @@
-# Konvulusyon-Hesaplama
+# Convolution of-Calculator
 It outputs the table according to the values entered. Returns the graph and convulsive graph of java with the XChart library according to the entered values. It outputs the graphic y and outputs it to the user as a graphic.
 
 # Outputs the table according to the values entered.**
