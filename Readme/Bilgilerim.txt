@@ -1,5 +1,5 @@
 Cihat SALİK
-180260025
+
 Altdaki xchart kütüphanesini eklemek gerekir yoksa hata alınır 
 Ödevi javanın kütüphanesi xchart olan grafik yazdıran kütüphanesini kullandık
 konvul_odev adlı dosya odevin netbeans projesi 
